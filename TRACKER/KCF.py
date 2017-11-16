@@ -4,4 +4,5 @@ import matplotlib
 
 # EECS 442 Computer Vision Course Project
 # Instructor Tracker
-#
+# A CV TEAM!
+
