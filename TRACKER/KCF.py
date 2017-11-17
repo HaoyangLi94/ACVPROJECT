@@ -6,7 +6,3 @@ import matplotlib
 # Instructor Tracker
 # A CV TEAM!
 
-#
-
-#def tracker
-
